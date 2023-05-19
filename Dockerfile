@@ -1,0 +1,3 @@
+ARG VERSION="bionic-20180224"
+ARG IMAGE="ubuntu:${VERSION}"
+FROM ${IMAGE}
